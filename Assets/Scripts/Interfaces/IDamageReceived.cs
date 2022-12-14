@@ -1,0 +1,4 @@
+﻿interface IDamageReceived
+{
+    void Receive();
+}
